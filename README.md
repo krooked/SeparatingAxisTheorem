@@ -1,7 +1,7 @@
 # Separating Axis Theorem swift game playground
 
-Collision detection of rotatated rectangles using the separating axis theorem.
-This playground is inspired by this article. 
+Collision detection of rotated rectangles using the separating axis theorem.
 
-Read the theory here:
+For all the theory check out this link:
 https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
+This playground is inspired by the article. 

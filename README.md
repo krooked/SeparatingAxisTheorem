@@ -5,3 +5,6 @@ A Swift game playground showing collision detection of rotated rectangles using 
 For all the theory check out this link:
 https://gamedevelopment.tutsplus.com/tutorials/collision-detection-using-the-separating-axis-theorem--gamedev-169
 This playground is inspired by the article. 
+
+This collision detection will be used in my ios game:
+http://www.bombthebay.com
